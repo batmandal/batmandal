@@ -30,3 +30,4 @@ If you want to live a happy life, tie it to a goal, not to people or things." - 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/batmandal"><img src="https://github-readme-stats.vercel.app/api?username=batmandal&show_icons=true&hide=&title_color=a855f7&text_color=22c55e&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="batmandal's GitHub stats" /></a>
+
