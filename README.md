@@ -30,4 +30,7 @@ If you want to live a happy life, tie it to a goal, not to people or things." - 
 <a href="http://www.github.com/batmandal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=batmandal&stroke=22c55e&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=22c55e&currStreakLabel=a855f7&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 </p>
 
+
 <img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/veAy5UOhBdS3C/200.gif?cid=790b76116fhw2yl0xwpru8dc6fp396n4ookts17j10xabr08&amp;ep=v1_gifs_search&amp;rid=200.gif&amp;ct=g" style="background:#9933ff" width="100%" height="100%" alt="Video girl. Actor Jessica Alba as Gina in Mechanic: Resurrection turns back the covers next to her and sexily beckons you with her finger.">
+
+
